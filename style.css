@@ -151,3 +151,10 @@ background: #fafafa;
     gap: 10px;
     margin-bottom: 12px;
 }
+#logoutBtn{
+  width: auto;        /* يلغي 100% */
+  margin-top: 0;      /* ما ينزلش */
+  padding: 6px 14px;
+  font-size: 14px;
+}
+
